@@ -12,7 +12,7 @@ cd $srcdir
 
 if(test)
 {
-	printf(duanfeng);
+	printf(shuimei);
 }
 
 ACLOCAL_FLAGS="-I m4"
